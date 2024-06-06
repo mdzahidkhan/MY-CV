@@ -1,0 +1,256 @@
+
+/*this is header*/
+
+.pp {color: #c01111;
+    padding: 10px;
+    background-color: rgb(60, 214, 181);
+margin-left: 6px;
+border: 1px solid black;
+border-color: aquamarine;
+border-radius: 8px;}
+
+.name {font-size:20px;
+     color: blueviolet;
+     
+}
+/* img part */
+
+img {
+  margin-top: 49px;
+}
+
+
+* {padding:3px;
+    margin-left:10px;
+    margin: 10px;}
+    
+    
+    
+    /*this is personal*/
+
+    
+    
+    #personal {
+      text-align: center;
+      position: center;
+      width: 70%;
+      top: 20%;
+      margin-left: 17%;
+      
+    }
+    
+    
+    
+    a:link {
+      text-decoration: none;
+      
+      
+    }
+
+    /* table style */
+
+    table td,table th {
+      border: 1px solid #29aed6;
+      padding: 8px;
+  
+    }
+    #ck {
+      margin-left: 0px;
+    }
+    table tr:nth-child(even){background-color: #40e018;}
+    
+    table tr:hover {background-color: #ee18ae;}
+    
+    table th {
+      padding-top: 12px;
+      padding-bottom: 12px;
+      text-align: left;
+      background-color: #370eee;
+      color: rgb(15, 240, 210);
+    }
+   
+
+
+
+
+    
+    #name {
+        float:left;
+        margin-left: 20px;
+        padding-bottom: 10px;
+        font-size: 16px;
+        font-family: Verdana, sans-serif;
+        color: #ffffff;
+    }
+         
+         
+         
+         /*this is career*/
+
+         
+          #career {
+            font-size: 30px;
+          color: black;
+          background: white;
+          text-align: left;
+          border: 1px solid blue;
+          border-inline-start-width: 12px;
+          padding: 15px;
+          text-decoration-color: #cee9ce;}
+          
+            div { background-color:white;
+            color: black;
+            text-align: center;
+          }
+          h6 {
+            font-size: medium;
+            text-align: left;
+              color: Green;
+            text-decoration:none;
+          }
+          h1 {text-align:center;}
+          #Strength {
+            font-size: 30px;
+            background: rgb(200,200,200);
+            text-align: left;
+            color: black;
+            text-decoration:none;
+            border: 2px solid green;
+            border-end-end-radius: 15px;
+            padding: 10px;
+            
+          }
+          #hard {
+            font-size: 20px;
+            background-color: white;
+            text-align: left;
+            color: green;
+            text-decoration-color: green;
+            margin-left: 18px;
+      
+          }
+          #serve {
+            font-size: 20px;
+            margin-left: 28px;
+          }
+
+
+            li {
+              list-style-type:square;
+              font-size: 20px;
+              font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+              font-style: oblique;
+              margin-left: 20px;
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*this is acknowledgement*/
+
+          #Ac { font-size: 30px;
+            color: black;
+            background: yellow;
+            text-align:left;
+            text-decoration: none;
+            border-inline-start-width: 12px;
+          border: 2px solid green;
+          border-end-end-radius: 12px;
+          border-color: green;
+          padding: 12px;
+          
+          }
+
+/*this is table border*/
+
+
+    
+    #border{ border-color: rgb(23, 35, 201);
+      border-style: groove;
+    }
+    #Computer { font-size: 30px;
+      border:2px solid tomato;
+      border-color: Green;
+      color: black;
+      background-color:rgb(200,100,244);
+      text-align: left;
+      margin-left: 0px;
+      text-size-adjust: 23px;
+      padding: 12px;
+      border-bottom-left-radius: 12px;
+      text-decoration: none;
+    }
+    #com {
+    
+      color: blue;
+      border-style: dotted dashed solid groove;
+      border-inline-start-width: 12px;
+    }
+    #st { font-size: 30px;
+      Color:rgb(110, 221, 20);
+    border: 1px solid yellow;
+    text-align: left;
+    background-color: green;
+    padding: 15px;
+    border-radius:10px;
+    }
+
+     #web {
+      color:rgb(0, 255, 13);
+     }
+
+
+    #Go { text-align: left;
+      text-decoration: none;
+      
+    }
+    
+    .pp { text-align: left;
+      color: #c01111;
+      padding: 10px;
+      background-color: rgb(60, 214, 181);
+    margin-left: 6px;
+    border: 1px solid black;
+    border-color: aquamarine;
+    border-radius: 8px;}
+    
+
+
+/*this is personal information*/
+
+
+
+    .name { text-align: left;
+        font-size:20px;
+       color: blueviolet;
+       margin-left: auto;
+    }
+    
+    #pe { font-size: 30px;
+      border: 3px solid black;
+    text-align: left;
+    background-color: rgb(56, 134, 114);
+    border-color: rgb(105, 255, 210);
+    padding: 12px;
+    border-start-end-radius: 22px;
+    }
+    
+       #strong {
+         
+         text-align: left;
+         color:rgb(78,30,178);
+         
+       }
+    
+          
